@@ -1,4 +1,4 @@
-To compile 'a4w23tasks' with make in bash run: 'make'
+To compile with make in bash run: 'make'
 
 After compiling the 'a4w23tasks' binary it can be invoked using the command line: ./a4w23tasks inputFile monitorTime NITER
 Example for test: ./a4w23tasks t1.in 75 20
